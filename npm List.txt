@@ -1,0 +1,7 @@
+npm install react-tooltip
+
+npm install --save @fortawesome/free-brands-svg-icons
+npm install --save @fortawesome/free-regular-svg-icons
+
+
+React Dom, Bootstrap, Fontawesome, Firebase
