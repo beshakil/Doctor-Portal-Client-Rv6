@@ -34,6 +34,7 @@ const Navigation = () => {
                         user?.email ?
                             <Box>
                                 <Link to="/dashboard" style={{ textDecoration: 'none', color: 'white' }}><Button color="inherit">Dashboard</Button></Link>
+								
                                 <Button onClick={logout} style={{ textDecoration: 'none', color: 'white' }} color="inherit">LOGOUT</Button>
                             </Box>
                             :

@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Classic Doctor Portal - Webapp
+### [Live Site](https://classic-doctor-portal.web.app/)
+### [Server Site](https://nameless-hollows-88754.herokuapp.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hello!
+Today I have created a website related Medical Center which name is Classic Doctor Portal. To complete this website I have used some technologies and I am going to say about the website and building technology for UI, Functionality. For the Authentication setup, I have used the firebase system. As this is a health-related website, so I try to handle cover healthcare-related services.
 
-## Available Scripts
+Admin Login: admin@admin.com </br>
+Password: 123456
 
-In the project directory, you can run:
+## Actually, This is a Medical Healthcare related website where someone can get--
+1. Developed front-end user experience using, Material UI, React v6, Node.js & MongoDB. Implemented the React Router DOM to allow nested RESTful routing.
+2. Built app with React while managing State through Asynchronous Actions using Firebase Authentication & payment gateway. This web app is user-friendly as it is responsive.
+2. This website lets you know about doctor details, booking appointments by selecting a date, & patient feedback with ratings. Having an admin panel allows you to easily control everything from the website's dashboard.
+4. Used to build the website is a combination of react-bootstrap and node.js, which makes the website's loading speed very fast and user-friendly.
+5. As this is a health-related website, we provide an emergency ambulance service. So anyone can get emergency health service from this medical center.
+6. We also provide our doctor's details and contact details for any consultation.
 
-### `npm start`
+## I have also used some technologies for creating the website.--
+- For Frontend Material UI I have used React js technology
+- Tailwind CSS for framework & Custom CSS3
+- React Router Dom for Routing
+- Firebase Authentication System
+- Node.js, MongoDB, Heroku
+- FontAwesome Icon
+- Firebase Hosting
+- Payment Gateway Stripe
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## I have shared the Home page UI below-
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Alt text](relative/path/../../ReactApp.png?raw=true "Title")
