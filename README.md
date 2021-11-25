@@ -28,4 +28,4 @@ Password: 123456
 
 ## I have shared the Home page UI below-
 
-![Alt text](relative/path/../../ReactApp.png?raw=true "Title")
+![Alt text](relative/path/../../homepage.png?raw=true "Title")
